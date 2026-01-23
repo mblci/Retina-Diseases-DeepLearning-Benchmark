@@ -26,3 +26,17 @@ Classes include: `Normal`, `Cataract`, `Diabetic Retinopathy`, `Glaucoma`.
 git clone https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git
 cd Retina-Diseases-DeepLearning-Benchmark
 pip install -r requirements.txt
+
+
+##  Citation
+If you use this repository, please cite our work:
+
+```bibtex
+@article{Balci2026,
+  title={Statistical Reliability and Explainability of Modern ConvNeXtV2 and Swin Transformer Architectures in the Classification of Multiple Retinal Diseases Based on Fundus Images},
+  author={Balci, Muharrem},
+  journal={Submitted for publication},
+  year={2026},
+  publisher={GitHub},
+  url={[https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark](https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark)}
+}
