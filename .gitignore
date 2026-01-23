@@ -1,16 +1,7 @@
-# Data and Models
 data/
 dataset/
-models/*.pth
-results/
-
-# Python
+models/
+*.pth
 __pycache__/
-*.py[cod]
-*$py.class
-.venv
-env/
-venv/
-
-# Notebooks
 .ipynb_checkpoints
+results/
