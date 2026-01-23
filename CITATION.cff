@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "BALCI"
+    given-names: "Muharrem"
+    orcid: "https://orcid.org/0000-0002-5478-1856" 
+title: "Retina-Diseases-DeepLearning-Benchmark"
+version: 1.0.0
+date-released: 2026-01-24
+url: "https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark"
