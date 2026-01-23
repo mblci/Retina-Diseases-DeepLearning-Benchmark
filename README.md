@@ -23,6 +23,6 @@ Classes include: `Normal`, `Cataract`, `Diabetic Retinopathy`, `Glaucoma`.
 
 ## Installation
 ```bash
-git clone [https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git](https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git)
+git clone (https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git)
 cd Retina-Diseases-DeepLearning-Benchmark
 pip install -r requirements.txt
