@@ -27,7 +27,8 @@ git clone [https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git](
 cd Retina-Diseases-DeepLearning-Benchmark
 pip install -r requirements.txt
 
-📜 Citation
+## Citation
+```bash
 If you use this repository, please cite our work:
 
 Kod snippet'i
@@ -40,16 +41,3 @@ Kod snippet'i
   url={[https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark](https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark)}
 }
 
----
-
-### Neyi Düzelttik?
-
-* **Kapatma Tırnakları:** `pip install -r requirements.txt` satırının altına ` ``` ` ekleyerek o bölümü bitirdik.
-* **BibTeX Bloğu:** Atıf kısmındaki kodun daha okunaklı olması ve hataya yer bırakmaması için başına ` ```bibtex ` ve sonuna ` ``` ` ekledik.
-* **Boşluklar:** Başlıkların üstünde birer satır boşluk bıraktık; Markdown bu boşluklar sayesinde başlıkları doğru tanır.
-
-
-
-Bu değişikliği yapıp **"Commit changes"** dedikten sonra sayfanın düzelmiş olması gerekiyor. Eğer düzelirse projen artık tamamen hazır demektir!
-
-**Düzenleme sonrası sayfa istediğin gibi görünüyor mu?** İstersen projenin hangi lisans altında olduğunu belirten bir **LICENSE** dosyası (genelde MIT License kullanılır) ekleyebiliriz, ne dersin?
