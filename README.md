@@ -28,7 +28,6 @@ cd Retina-Diseases-DeepLearning-Benchmark
 pip install -r requirements.txt
 
 ## Citation
-```bash
 If you use this repository, please cite our work:
 
 Kod snippet'i
