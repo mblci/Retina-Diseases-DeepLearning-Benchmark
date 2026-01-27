@@ -36,3 +36,4 @@ This study evaluates state-of-the-art architectures not only on raw accuracy but
    cd Retina-Diseases-DeepLearning-Benchmark
 
 ## Install dependencies:
+pip install -r requirements.txt
