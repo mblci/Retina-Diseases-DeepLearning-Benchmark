@@ -43,7 +43,7 @@ If you find this work or the code useful for your research, please cite:
 ```bibtex
 @article{Balci2026,
   title={Statistical Reliability and Explainability of Modern ConvNeXtV2 and Swin Transformer Architectures in the Classification of Multiple Retinal Diseases Based on Fundus Images},
-  author={Balci, Muharrem and Aykut, Ali},
+  author={Balci, Muharrem},
   journal={Submitted to Medical Image Analysis},
   year={2026},
   publisher={GitHub},
