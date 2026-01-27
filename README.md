@@ -35,4 +35,4 @@ This study evaluates state-of-the-art architectures not only on raw accuracy but
    git clone [https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git](https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git)
    cd Retina-Diseases-DeepLearning-Benchmark
 
-   
+## Install dependencies:
