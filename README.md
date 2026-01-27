@@ -36,4 +36,16 @@ This study evaluates state-of-the-art architectures not only on raw accuracy but
    cd Retina-Diseases-DeepLearning-Benchmark
 
 ## Install dependencies:
-pip install -r requirements.txt
+* pip install -r requirements.txt
+
+## 📝 Citation
+If you find this work or the code useful for your research, please cite:
+
+@article{Balci2026,
+  title={Statistical Reliability and Explainability of Modern ConvNeXtV2 and Swin Transformer Architectures in the Classification of Multiple Retinal Diseases Based on Fundus Images},
+  author={Balci, Muharrem and Aykut, Ali},
+  journal={Submitted to Medical Image Analysis},
+  year={2026},
+  publisher={GitHub},
+  url={[https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark](https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark)}
+}
