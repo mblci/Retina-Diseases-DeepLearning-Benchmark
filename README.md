@@ -43,9 +43,17 @@ If you find this work or the code useful for your research, please cite:
 
 @article{Balci2026,
   title={Statistical Reliability and Explainability of Modern ConvNeXtV2 and Swin Transformer Architectures in the Classification of Multiple Retinal Diseases Based on Fundus Images},
-  author={Balci, Muharrem and Aykut, Ali},
+  author={Balci, Muharrem},
   journal={Submitted to Medical Image Analysis},
   year={2026},
   publisher={GitHub},
   url={[https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark](https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark)}
 }
+
+
+## 📜 License
+This project is licensed under the Apache License 2.0.
+
+This means you are free to use, modify, and distribute the code, provided that you give appropriate credit and include the original license file.
+
+See the LICENSE file for the full text of the license.
