@@ -32,7 +32,7 @@ This study evaluates state-of-the-art architectures not only on raw accuracy but
 
 Clone the repository:
 ```bash
-git clone [https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git](https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git)
+git clone https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git
 cd Retina-Diseases-DeepLearning-Benchmark
 
 ```
