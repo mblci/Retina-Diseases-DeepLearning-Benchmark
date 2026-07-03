@@ -34,9 +34,11 @@ Clone the repository:
 git clone [https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git](https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark.git)
 cd Retina-Diseases-DeepLearning-Benchmark
 
+```
 ## Install dependencies:
 * pip install -r requirements.txt
 ```
+
 
 ## 📝 Citation
 If you find this work or the code useful for your research, please cite:
