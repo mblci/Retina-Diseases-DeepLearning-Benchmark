@@ -40,15 +40,23 @@ cd Retina-Diseases-DeepLearning-Benchmark
 ## 📝 Citation
 If you find this work or the code useful for your research, please cite:
 ```bibtex
-@article{Balci2026,
-  title={Statistical Reliability and Explainability of Modern ConvNeXtV2 and Swin Transformer Architectures in the Classification of Multiple Retinal Diseases Based on Fundus Images},
-  author={Balci, Muharrem},
-  journal={Submitted to Medical Image Analysis},
+@article{Balci2026Neurocomputing,
+  title={A comparative analysis of modern CNN and transformer architectures for multi-class retinal disease classification with statistical validation and explainability},
+  author={Balcı, Muharrem and Alkan, Ahmet},
+  journal={Neurocomputing},
+  volume={699},
+  pages={134387},
   year={2026},
-  publisher={GitHub},
-  url={https://github.com/mblci/Retina-Diseases-DeepLearning-Benchmark}
+  publisher={Elsevier},
+  doi={10.1016/j.neucom.2026.134387},
+  url={[https://doi.org/10.1016/j.neucom.2026.134387](https://doi.org/10.1016/j.neucom.2026.134387)}
 }
 ```
+
+
+
+
+
 
 ## 📜 License
 This project is licensed under the Apache License 2.0.
