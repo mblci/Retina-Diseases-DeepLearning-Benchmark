@@ -37,8 +37,9 @@ cd Retina-Diseases-DeepLearning-Benchmark
 
 ```
 ## Install dependencies:
-* pip install -r requirements.txt
-
+```
+pip install -r requirements.txt
+```
 
 ## 📝 Citation
 If you find this work or the code useful for your research, please cite:
@@ -52,7 +53,7 @@ If you find this work or the code useful for your research, please cite:
   year={2026},
   publisher={Elsevier},
   doi={10.1016/j.neucom.2026.134387},
-  url={[https://doi.org/10.1016/j.neucom.2026.134387](https://doi.org/10.1016/j.neucom.2026.134387)}
+  url={https://doi.org/10.1016/j.neucom.2026.134387}
 }
 ```
 
