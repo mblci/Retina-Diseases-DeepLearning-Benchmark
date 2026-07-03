@@ -37,7 +37,6 @@ cd Retina-Diseases-DeepLearning-Benchmark
 ```
 ## Install dependencies:
 * pip install -r requirements.txt
-```
 
 
 ## 📝 Citation
