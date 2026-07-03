@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-### Statistical Reliability and Explainability of Modern ConvNeXtV2 and Swin Transformer Architectures in the Classification of Multiple Retinal Diseases based on Fundus Images
+### A comparative analysis of modern CNN and transformer architectures for multi-class retinal disease classification with statistical validation and explainability
 
 This repository contains the official implementation for the benchmarking of modern deep learning architectures (**ConvNeXtV2**, **Swin Transformer**, and **EfficientNetV2**) for the classification of multiple retinal diseases based on fundus images.
 
